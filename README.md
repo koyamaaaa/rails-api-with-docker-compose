@@ -44,7 +44,7 @@ $ docker-compose run web rails new . --api --force --database=mysql
   $ docker-compose run web bundle exec rspec
 ```
 
-[rspec/rspec-rails](https://github.com/rspec/rspec-rails)
+more detail -> [rspec/rspec-rails](https://github.com/rspec/rspec-rails)
 
 ## Execute rubocop
 
@@ -52,4 +52,4 @@ $ docker-compose run web rails new . --api --force --database=mysql
   $ docker-compose run web rubocop
 ```
 
-[rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+more detail -> [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
